@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1719AD82783204A01B058D45 /* switchStatement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1719AF4501B98825433107A6 /* switchStatement.swift */; };
+		1719A1C2BA3B41B1B9042628 /* 09-functions-methods-closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1719A6FA7A88D2F7CE565060 /* 09-functions-methods-closures.swift */; };
+		1719AD82783204A01B058D45 /* 08-switchStatement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1719AF4501B98825433107A6 /* 08-switchStatement.swift */; };
 		1719AFEA344BDA7FE15D6786 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1719AB6FB4541836308314A5 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -24,9 +25,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1719A6FA7A88D2F7CE565060 /* 09-functions-methods-closures.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "09-functions-methods-closures.swift"; sourceTree = "<group>"; };
 		1719AB6FB4541836308314A5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1719ADCB9C1AAD215077E9EB /* swiftBasics */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = swiftBasics; sourceTree = BUILT_PRODUCTS_DIR; };
-		1719AF4501B98825433107A6 /* switchStatement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = switchStatement.swift; sourceTree = "<group>"; };
+		1719AF4501B98825433107A6 /* 08-switchStatement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "08-switchStatement.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				1719AB6FB4541836308314A5 /* main.swift */,
-				1719AF4501B98825433107A6 /* switchStatement.swift */,
+				1719AF4501B98825433107A6 /* 08-switchStatement.swift */,
+				1719A6FA7A88D2F7CE565060 /* 09-functions-methods-closures.swift */,
 			);
 			path = swiftBasics;
 			sourceTree = "<group>";
@@ -113,7 +116,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1719AFEA344BDA7FE15D6786 /* main.swift in Sources */,
-				1719AD82783204A01B058D45 /* switchStatement.swift in Sources */,
+				1719AD82783204A01B058D45 /* 08-switchStatement.swift in Sources */,
+				1719A1C2BA3B41B1B9042628 /* 09-functions-methods-closures.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
