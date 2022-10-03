@@ -4,7 +4,8 @@
 
 // 9. Swift Functions, Methods and Closures
 
-// function basic
-func functionBasic() {
-  print("functionBasic")
+// 9.4 Implicit Returns from Single Expressions
+func buildMessageFor(name: String, count: Int) -> String {
+  let uppername = name.uppercased()
+  return "\(uppername), you are customer number \(count)" // Invalid expression
 }
